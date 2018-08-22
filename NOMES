@@ -1,2 +1,22 @@
-Grupo composto por:
-Beatriz Cristina Dal Bem Garcia - 1801069
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="pt-UTF-8"  />
+  <title> Nomes Integrantes </title>
+  <body>
+  <ol>
+   <li>Nomes Integrantes</li>
+       <ul>
+         <li>Beatriz Cristina Dal Bem Garcia</li>
+         <li> Gustavo Queiroz da Silva</li>
+         <li> Lucca Leme Milazzo </li>
+		     <li> Vinicius Oliveira da Silva </li>
+		     <li> Vitor Reis Antunes </li>
+       </ul>
+  </ol>
+
+
+
+  <body>
+ </head>
+</html>
