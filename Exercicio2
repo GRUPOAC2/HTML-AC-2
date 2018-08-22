@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="pt-UTF-8"  />
+  <title>Exercício 2</title>
+  </head>
+  <body>
+
+  <table border="3">
+  <tr>
+  <td colspan="7"><b><center>CAMPEONATO BRASILEIRO</center></b></td>
+  </tr> 
+
+  <tr>
+  <td><b>Colocação</b</td>
+  <td><b><center>Time</center></b</td>
+  <td><b>Pts</b></td>
+  <td><b>PJ</b></td>
+  <td><b>GP</b></td>
+  <td><b>GC</b></td>
+  <td><b>SG</b></td>
+  </tr>
+
+  <tr>
+  <td><center>1°</center></td>
+  <td>São Paulo</td>
+  <td>38</td>
+  <td>18</td>
+  <td>30</td>
+  <td>16</td>
+  <td>14</td>
+  </tr>
+
+  <tr>
+  <td><center>2°</center></td>
+  <td>Flamengo</td>
+  <td>37</td>
+  <td>18</td>
+  <td>29</td>
+  <td>12</td>
+  <td>17</td>
+  </tr>
+
+  <tr>
+  <td><center>3°</center></td>
+  <td>Internacional</td>
+  <td>35</td>
+  <td>18</td>
+  <td>26</td>
+  <td>12</td>
+  <td>14</td>
+
+  </tr>
+
+  <tr>
+  <td><center>4°</center></td>
+  <td>Grêmio</td>
+  <td>33</td>
+  <td>18</td>
+  <td>22</td>
+  <td>8</td>
+  <td>14</td>
+
+  </tr>
+
+  <tr>
+  <td><center>5°</center></td>
+  <td>Atlético</td>
+  <td>30</td>
+  <td>18</td>
+  <td>33</td>
+  <td>26</td>
+  <td>7</td>
+  </tr>
+
+  <tr>
+  <td><center>6°</center></td>
+  <td>Palmeiras</td>
+  <td>30</td>
+  <td>18</td>
+  <td>26</td>
+  <td>15</td>
+  <td>11</td>
+  </tr>
+  </table>
+
+  </body>
+</html>
